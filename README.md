@@ -1,15 +1,17 @@
 RUN	BY CONSOLE
 
-* Requirements: 
+Requirements: 
+
 Maven 3
 Java 11
 
-* Build (by console):
+Build (by console)
 In project folder run: 
 
 mvn clean package
 
-* Run application:
+Run application:
+
 java -jar target/ejercicio-0.0.1-SNAPSHOT.jar
 
 
