@@ -3,9 +3,11 @@ RUN	BY CONSOLE
 Requirements: 
 
 Maven 3
+
 Java 11
 
 Build (by console)
+
 In project folder run: 
 
 mvn clean package
